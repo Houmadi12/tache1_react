@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 const Cart = () => {
     return (
         <>
-          <p className='text-white text-end me-5 mt-4'>Commande</p>
+          <p className='text-white text-end me-5 mt-4'>Fermer</p>
           <Container>
             <h6 className='fs-1 text-white mt-4'>Pannier</h6>
             <ul className='gy-4'>
